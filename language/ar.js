@@ -1,7 +1,4 @@
-//arabic
 let config = require(`../config.js`);
-let emojis = require(`../emojis.json`)
-let e = emojis;
 let prefix = config.prefix;
 
 module.exports = {
